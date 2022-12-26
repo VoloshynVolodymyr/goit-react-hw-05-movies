@@ -1,4 +1,4 @@
-import { Outlet, Navigate } from 'react-router-dom';
+import { Outlet} from 'react-router-dom';
 import { Suspense } from 'react';
 import { Header, Nav, LinkNav } from './SharedLayout.styled';
 
